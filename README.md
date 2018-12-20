@@ -10,6 +10,8 @@ The Camp Rock Reservation website is specially created for users to sign up or l
 6. SQL
 7. AJAX
 8. Bootstrap
+
+## Project Description
 ### Sign Up:
 The users who are visiting the website for the first time must sign up so that the user information is saved in the database. To sign up successfully, user must enter the username, password, first name and email id. Password must be at least 5 characters long. Password is saved as a hash value using MD5 technique.
 ### User Log in:
